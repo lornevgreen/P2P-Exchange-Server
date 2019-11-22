@@ -24,8 +24,7 @@ Note - if user_sn will not parse then system will fetch existing record.
 Get my own profile => verified
 URL - http://localhost/store/api/users/details.php?ticket=04e52805f7fdce3c42b2d1a792f86ade840ce8391200&raida=raida1
 
-
-Download Anotehr user profile image => Verified 
+Download Another user profile image => Verified 
 http://localhost/store/api/users/details.php?ticket=04e52805f7fdce3c42b2d1a792f86ade840ce8391200&raida=raida1&user_sn=6301000&action=download_profile
 
 Download my own profile -
@@ -56,7 +55,7 @@ Apart from above two all fieds are modeoty to post new ad.
 
 http://localhost/store/api/ads/details.php?ad_id={63E6A9551-AFB9-051D-EB7A-CF38004A2CBA}&raida=raida1&ticket=1234567
 
-Ad_id will use to get add details
+Ad_id will use to get ad id details
 ad_id is mondetory
 
 
